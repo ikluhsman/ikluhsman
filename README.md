@@ -1,6 +1,6 @@
 👋 Hola Nerds!
 
-I’m @ikluhsman! I hope you're having a good day.
+⛷️ I hope you're having a good day.
 
 👀 I enjoy using computers to create things that make life more enjoyable. I have worked in the Information Technology industry for over 15 years in Denver, Colorado.
 
