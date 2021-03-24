@@ -8,5 +8,7 @@
 
 💞️ I’d like to work with anyone that's willing to code something with me. I miss the days of working on a real software team, my new job is fairly lonely in that regard.
 
-📫 You can contact me! Send me an email at iankluhsman@gmail.com. I love to hear from other coders!
+📫 You can contact me! Send me an email at iankluhsman@gmail.com.
+
+🍻 Cheers!
 
