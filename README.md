@@ -10,7 +10,7 @@
 
 🐦 Here are some non-work related things about me.
 - Likes: ☕ coffee #️⃣ coding 🐱 cats 🐎 horses 🐼 animals 🍕 pizza 🥄 cooking 🏞️ nature 👪 family 🍔 bbq 
-- I am a: 🎿 skiier 🚣 whitewater kayaker 🎮 computer gamer 💻 computer programmer 🎵 musician 👪 son 👪 brother 👪 uncle 🐕 dog dad 🚴 bicyclist 🏍️ dirt-biker 📷 photographer 🔭 astrophotographer
+- I am a: 🎿 skiier 🚣 whitewater kayaker 🎮 computer gamer 💻 computer programmer 🎵 musician 👪 son 👪 brother 👪 uncle 🐕 dog dad 🚴 bicyclist 🏍️ dirt-biker 📷 photographer 🔭 astrophotographer 🎱 pool shark 🎸 guitarist 🔉 audio tech 🔌 electrician 🔨 carpenter 🔧 mechanic
 
 📫 You can contact me, send me an email at iankluhsman@gmail.com. I love to hear from other developers and make friends that share a common interest in my hobbies.
 
