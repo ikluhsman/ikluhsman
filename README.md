@@ -9,7 +9,7 @@
 💞️ I’d like to work with anyone that's willing to code something with me. I miss the days of working on a real software team, my new job is fairly lonely in that regard.
 
 🐦 Here are some non-work related things about me.
-- I love: 🐱 cats 🐎 horses 🐼 animals 🍕 pizza 🥄 cooking 🏞️ nature 👪 family 🍔 bbq 0️⃣ coding
+- Likes: ☕ coffee #️⃣ coding 🐱 cats 🐎 horses 🐼 animals 🍕 pizza 🥄 cooking 🏞️ nature 👪 family 🍔 bbq 
 - I am a: 🎿 skiier 🚣 whitewater kayaker 🎮 computer gamer 💻 computer programmer 🎵 musician 👪 son 👪 brother 👪 uncle 🐕 dog dad 🚴 bicyclist 🏍️ dirt-biker 📷 photographer 🔭 astrophotographer
 
 📫 You can contact me, send me an email at iankluhsman@gmail.com. I love to hear from other developers and make friends that share a common interest in my hobbies.
