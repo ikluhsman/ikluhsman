@@ -9,8 +9,10 @@
 💞️ I like to work with anyone that's willing to code something with me. Recently I find that I enjoy writing code for myself and my own projects, and I realize that this is an ongoing thing I'll continue to do for the rest of my days. I enjoy writing code that I makes sense to other people, and can be seen as useful at least to me. I have found that JavaScript is one of my favorite tools to help achieve this.
 
 🐦 Here are some non-work related things about me.
-- Likes: ☕ coffee #️⃣ coding 🐱 cats 🐎 horses 🐼 animals 🍕 pizza 🥄 cooking 🏞️ nature 👪 family 🍔 bbq 
-- I am a: 🎿 skiier 🚣 whitewater kayaker 🎮 computer gamer 💻 computer programmer 🎵 musician 👪 son 👪 brother 👪 uncle 🐕 dog dad 🚴 bicyclist 🏍️ dirt-biker 📷 photographer 🔭 astrophotographer 🎱 pool shark 🎸 guitarist 🔉 audio tech 🔌 electrician 🔨 carpenter 🔧 mechanic
+
+Likes: coffee ☕ coding #️⃣ cats 🐱 horses 🐎 pizza 🍕 cooking 🥄 nature 🏞️ family 👪 bbq 🍔
+
+I am a: skiier 🎿 whitewater kayaker 🚣 gamer 🎮 programmer 💻 musician 🎵 son 👪 brother 👪 uncle 👪 dog dad 🐕 bicyclist 🚴 dirt-biker 🏍️ photographer 📷 astrophotographer 🔭 pool shark 🎱 guitarist 🎸 audio techician 🔉 electrician 🔌 carpenter 🔨 mechanic 🔧
 
 📫 You can contact me, send me an email at iankluhsman@gmail.com. I love to hear from other developers and make friends that share a common interest in my hobbies.
 
