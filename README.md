@@ -4,7 +4,7 @@
 
 👀 I enjoy using computers to create things that make life more enjoyable. I believe that solving problems using computers accelerates the evolution of human beings. The first computer I worked on was an Apple IIe in kindergarten, I loved the way the keys on those old keyboards clicked loudly under your fingers.
 
-🌱 During High School I was hired for a computer tech job at a Cancer Research Center while working on an Associate's degree in Business and Computer Information Systems. After I got my degree I started working at a Managed Services company, and I quickly realized that the "business" end of computing isn't really my cup of tea. I am actually more of an introvert than I seem to be at face value, and I found that coding was more what I am passionate about.
+🌱 During High School I was hired for a computer tech job at a Cancer Research Center while working on an Associate's degree in Business and Computer Information Systems. After I got my degree I started working at a Managed Services company, and I quickly realized that the "business" end of computing isn't really my cup of tea. I am actually more of an introvert than I seem to be at face value, and I found that coding is more what I am passionate about.
 
 ## #️⃣ So I learned to code. 
 
