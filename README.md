@@ -1,6 +1,6 @@
 # 👋 Hola Nerds!
 
-⛷️ I hope you're having a good day!
+### ⛷️ I hope you're having a good day!
 
 👀 I enjoy using computers to create things that make life more enjoyable. I believe that solving problems using computers accelerates the evolution of human beings. The first computer I worked on was an Apple IIe in kindergarten, I loved the way the keys on those old keyboards clicked loudly under your fingers.
 
