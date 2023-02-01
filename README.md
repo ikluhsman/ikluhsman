@@ -2,7 +2,7 @@
 
 ⛷️ I hope you're having a good day
 
-👀 I enjoy using computers to create things that make life easier and help solve everyday problems. The first computer I worked on was an Apple IIe in kindergarten, I loved the way the keys on those old mechanical keyboards clicked loudly under your fingers.
+👀 I enjoy using computers to create things that make life easier. The first computer I worked on was an Apple IIe in kindergarten, I loved the way the keys on those old mechanical keyboards clicked loudly under your fingers.
 
 💞️ I like to work with anyone that's willing to code something with me. I like my work to be original, simple, and make sense in the real world.
 
