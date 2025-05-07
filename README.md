@@ -8,7 +8,7 @@
 
 Not strictly speaking, I'm a coder. It is a part of my career, and a fun hobby.
 
-## Here are a few interesting things about me -
+## Here are a few interesting things about me ~
 
 - I was born in Alaska, and now live in Colorado.
 - I remember life before the Internet existed.
@@ -48,6 +48,8 @@ Not strictly speaking, I'm a coder. It is a part of my career, and a fun hobby.
 
 ## Boring Tech Stuff
 
+<div align="center">
+
 <table><tr><td valign="top" width="25%">
 
 ### Frontend
@@ -76,6 +78,8 @@ Not strictly speaking, I'm a coder. It is a part of my career, and a fun hobby.
 </a>
 </td>
 </tr></table>
+
+</div>
 
 ### GitHub Stats
 
