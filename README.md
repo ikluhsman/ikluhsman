@@ -8,7 +8,7 @@
 
 My name is **_IAN_**.
 
-I am a coder, but its a part of my larger tech career.
+I am a coder, though it is a part of my tech career and a fun hobby.
 
 ## Interesting things about me ~
 
