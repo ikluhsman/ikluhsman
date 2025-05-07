@@ -99,7 +99,7 @@ Most professional code I've written lives in private source control systems, mak
 
 <p align="center">
 <a href="https://github.com/ikluhsman"> 
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikluhsman&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" />
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikluhsman&show_icons=true&locale=en&layout=demo&theme=buefy-dark&hide_border=true" />
 </a>  
 </p>
 <p align="center">
