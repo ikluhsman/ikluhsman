@@ -6,11 +6,13 @@
 
 # 👋 **_Hello!_**
 
-### My name is **_IAN_**.
+My name is **_IAN_**.
 
-Not strictly speaking, I'm a coder. It is a part of my career, and a fun hobby.
+I learned to type on those loud Apple IIe keyboards when I was in 1st grade. 🧒
 
-## Here are a few interesting things about me ~
+All my life I have loved using mechanical keyboards. ⌨️
+
+## Interesting things about me ~
 
 - I was born in Alaska, and now live in Colorado.
 - I remember life before the Internet existed.
@@ -18,7 +20,7 @@ Not strictly speaking, I'm a coder. It is a part of my career, and a fun hobby.
 - I play classical and jazz guitar.
 - In 2017 I paddled the entire Grand Canyon in a small whitewater kayak.
 
-❤️ **I like:**
+❤️ **I like**
 ☕ coffee
 #️⃣ coding
 🐱 cats
@@ -29,7 +31,7 @@ Not strictly speaking, I'm a coder. It is a part of my career, and a fun hobby.
 👪 family
 🍔 bbq
 
-👨 **I am a:**
+👨 **I am a**
 🎿 skiier
 🚣 whitewater kayaker
 🎮 gamer
@@ -48,42 +50,45 @@ Not strictly speaking, I'm a coder. It is a part of my career, and a fun hobby.
 🔨 carpenter
 🔧 mechanic
 
-## Boring Tech Stuff
+## Boring Skills Stuff
 
 <div align="center">
 
-<table><tr><td valign="top" width="25%">
+<table><tr>
+
+<td valign="top" width="25%">
 
 ### Frontend
 
-<a href="https://github.com/ikluhsman">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,vuetify,vue,vercel,next,nuxt,grafana,d3,wordpress&perline=4" /> 
 </div>
-</a>
- </td><td valign="top" width="25%">
+
+</td>
+
+<td valign="top" width="25%">
         
 ### Languages
-<a href="https://github.com/tayyabadev">
+
 <div align="center">
        <img src="https://skillicons.dev/icons?i=js,ts,net,python,bash,powershell,perl,cpp&perline=4" /> 
 </div>
-</a>
 
 </td><td valign="top" width="25%">
   
 ### Others
-<a href="https://github.com/tayyabadev">
+
 <div align="center">
        <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,discord,aws,docker,codepen,mysql,sqlite,firebase,react,npm,nodejs&perline=4" /> 
 </div>
-</a>
+
 </td>
+
 </tr></table>
 
 </div>
 
-### GitHub Stats
+## GitHub Stats
 
 Most professional code I've written lives in private source control systems, making my public Git history slim at the moment. Follow me on GitHub to see what's next!
 
@@ -105,24 +110,18 @@ Most professional code I've written lives in private source control systems, mak
   </a> 
 </p>
 
-<div align="center">
+## Other Links
 
----
-### Other Links
-<td valign="top" width="25%">
+<div align="center">
 <a href="https://github.com/ikluhsman"><img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white"/></a>
 <a href="https://codepen.io/iankco"><img height="32" width="32" src="https://cdn.simpleicons.org/codepen/black/white"/></a>
 <a href="https://stackoverflow.com/users/2352039/iank-co"><img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow"/></a>
 
-</td>
-<br/>
-<td valign="top" width="25%">
 <a href="https://iankco.bsky.social"><img height="32" width="32" src="https://cdn.simpleicons.org/bluesky"/></a>
 <a href="https://facebook.com/iankco"><img height="32" width="32" src="https://cdn.simpleicons.org/facebook"/></a>
 <a href="mailto:iankluhsman@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail"/></a>
 <a href="https://discordapp.com/users/810994010922680330"><img height="32" width="32" src="https://cdn.simpleicons.org/discord"/></a>
 <a href="https://www.youtube.com/@iankco"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube"/></a>
 <a href="https://vimeo.com/iankco"><img height="32" width="32" src="https://cdn.simpleicons.org/vimeo"/></a>
-</td>
 
 </div>
