@@ -1,7 +1,7 @@
 [![](https://img.shields.io/static/v1?label=Sponsor%20me%20on%20GitHub&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ikluhsman)
 
 <div align="center">
-<img src="https://ianswebpics.twic.pics/ian.tech/photos/south-park-rainbow.jpg" height="300"/>
+<img src="https://ianswebpics.twic.pics/kayaking/GrandCanyonBoof.jpg" height="300"/>
 </div>
 
 # 👋 **_Hello!_**
