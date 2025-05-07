@@ -8,9 +8,7 @@
 
 My name is **_IAN_**.
 
-I learned to type on those loud Apple IIe keyboards when I was in 1st grade. 🧒
-
-All my life I have loved using mechanical keyboards. ⌨️
+I am a coder, but its a part of my larger tech career.
 
 ## Interesting things about me ~
 
