@@ -108,19 +108,19 @@ Most professional code I've written lives in private source control systems, mak
 ---
 ### Other Links
 <td valign="top" width="25%">
-<a href="https://github.com/ikluhsman"><img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white"/></a>
-<a href="https://codepen.io/iankco"><img height="32" width="32" src="https://cdn.simpleicons.org/codepen/black/white"/></a>
-<a href="https://stackoverflow.com/users/2352039/iank-co"><img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow"/></a>
+<a href="https://github.com/ikluhsman" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white"/></a>
+<a href="https://codepen.io/iankco" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/codepen/black/white"/></a>
+<a href="https://stackoverflow.com/users/2352039/iank-co" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/stackoverflow"/></a>
 
 </td>
 <br/>
 <td valign="top" width="25%">
-<a href="https://iankco.bsky.social"><img height="32" width="32" src="https://cdn.simpleicons.org/bluesky"/></a>
-<a href="https://facebook.com/iankco"><img height="32" width="32" src="https://cdn.simpleicons.org/facebook"/></a>
-<a href="mailto:iankluhsman@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail"/></a>
-<a href="https://discordapp.com/users/810994010922680330"><img height="32" width="32" src="https://cdn.simpleicons.org/discord"/></a>
-<a href="https://www.youtube.com/@iankco"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube"/></a>
-<a href="https://vimeo.com/iankco"><img height="32" width="32" src="https://cdn.simpleicons.org/vimeo"/></a>
+<a href="https://iankco.bsky.social" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/bluesky"/></a>
+<a href="https://facebook.com/iankco" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/facebook"/></a>
+<a href="mailto:iankluhsman@gmail.com" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail"/></a>
+<a href="https://discordapp.com/users/810994010922680330" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/discord"/></a>
+<a href="https://www.youtube.com/@iankco" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/youtube"/></a>
+<a href="https://vimeo.com/iankco" target="_blank"><img height="32" width="32" src="https://cdn.simpleicons.org/vimeo"/></a>
 </td>
 
 </div>
