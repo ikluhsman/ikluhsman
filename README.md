@@ -21,7 +21,7 @@ I am a coder, though it is a part of my tech career and a fun hobby.
 ❤️ **I like**
 ☕ coffee
 #️⃣ coding
-🐱 cats
+🐕 dogs
 🐎 horses
 🍕 pizza
 🥄 cooking
@@ -59,7 +59,7 @@ I am a coder, though it is a part of my tech career and a fun hobby.
 ### Frontend
 
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,vuetify,vue,vercel,next,nuxt,grafana,d3,wordpress&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,vuetify,vue,vercel,next,nuxt,grafana,d3,htmx,wordpress,strapi&perline=4" />
 </div>
 
 </td>
@@ -77,7 +77,7 @@ I am a coder, though it is a part of my tech career and a fun hobby.
 ### Others
 
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,discord,aws,docker,codepen,mysql,sqlite,firebase,react,npm,nodejs&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,aws,docker,jenkins,fastapi,prometheus,mysql,sqlite,firebase,react,npm,nodejs&perline=4" />
 </div>
 
 </td>
@@ -85,6 +85,10 @@ I am a coder, though it is a part of my tech career and a fun hobby.
 </tr></table>
 
 </div>
+
+## AI & LLM
+
+Working with: **Claude API** · **OpenAI API** · **Ollama** · **LangChain** · **LlamaIndex** · **Claude Code**
 
 ## GitHub Stats
 
