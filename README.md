@@ -52,73 +52,24 @@ My name is **_IAN_**.
 
 ## What I Work With
 
-<div align="center">
+**Infrastructure & Cloud:**
+`Linux` `Windows Server` `AWS` `Azure` `Docker` `nginx` `Grafana` `Prometheus`
 
-<table><tr>
+**Development:**
+`JavaScript` `TypeScript` `Python` `C# .NET` `Bash` `PowerShell` `Perl` `C++` `Vue.js` `Nuxt.js` `Next.js` `React` `FastAPI` `HTMX` `TailwindCSS` `Vuetify` `HTML` `CSS` `D3.js`
 
-<td valign="top" width="33%">
-
-### Infrastructure & Cloud
-
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=linux,windows,aws,azure,grafana,prometheus,nginx,docker&perline=4" />
-</div>
-
-</td>
-
-<td valign="top" width="33%">
-
-### Development
-
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=js,ts,python,net,bash,powershell,perl,cpp,vue,nuxt,next,react,fastapi,htmx,tailwind,vuetify,html,css,d3&perline=5" />
-</div>
-
-</td>
-
-<td valign="top" width="33%">
-
-### DevOps & Tools
-
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,vscode,codepen,mysql,sqlite,firebase,nodejs,npm,strapi,wordpress,vercel,scss&perline=4" />
-</div>
-
-</td>
-
-</tr></table>
-
-</div>
+**DevOps & Tools:**
+`Git` `GitHub` `GitLab` `Jenkins` `VS Code` `MySQL` `SQLite` `Firebase` `Node.js` `npm` `Strapi` `WordPress` `Vercel` `SCSS` `CodePen`
 
 **20 years of datacenter & operations experience:**
-
 `VMware ESX/vSphere` `Citrix XenApp/XenDesktop (CCA)` `Cisco IOS` `SAN/NAS (EMC VNX2 · HP EVA 4000/6000)` `Windows Server` `Zabbix` `Logicmonitor` `CA ArcServe` `Veeam` `Commvault` `SonicWall` `Tailscale` `WireGuard` `OpenVPN` `ZFS` `MQTT` `RabbitMQ` `IBM AS/400`
+
+**Containerization:**
+`Docker` `GHCR` — custom images for Prometheus exporters · Nuxt apps · static sites · monitoring components
 
 ## AI & LLM
 
 Working with: **Claude API** · **OpenAI API** · **Ollama** · **LangChain** · **LlamaIndex** · **Claude Code**
-
-## GitHub Stats
-
-Most professional code I've written lives in private source control systems, making my public Git history slim at the moment. Follow me on GitHub to see what's next!
-
-<p align="center">
-    <a href="https://github.com/ikluhsman">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ikluhsman&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikluhsman&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
-
-<p align="center">
-<a href="https://github.com/ikluhsman"> 
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ikluhsman&show_icons=true&locale=en&layout=demo&theme=buefy-dark&hide_border=true" />
-</a>  
-</p>
-<p align="center">
-  <a href="https://github.com/ikluhsman">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=ikluhsman&bg_color=111213&color=AFAAFA&line=FDFD96&point=FF88FF&area_color=79FE96&border_radius=25&title_color=AFAFFA&border_radius=20px&hide_border=true"/>
-  </a> 
-</p>
 
 ## Other Links
 
