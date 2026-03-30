@@ -8,7 +8,9 @@
 
 My name is **_IAN_**.
 
-I am a coder, though it is a part of my tech career and a fun hobby.
+**Full Stack Engineer · Systems Architect · Open Source**
+
+25 years of experience — from racks to repositories.
 
 ## Interesting things about me ~
 
@@ -48,36 +50,38 @@ I am a coder, though it is a part of my tech career and a fun hobby.
 🔨 carpenter
 🔧 mechanic
 
-## Boring Skills Stuff
+## What I Work With
 
 <div align="center">
 
 <table><tr>
 
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
-### Frontend
+### Infrastructure & Cloud
 
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,vuetify,vue,vercel,next,nuxt,grafana,d3,htmx,wordpress,strapi&perline=4" />
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=linux,windows,aws,azure,grafana,prometheus,nginx,docker&perline=4" />
 </div>
 
 </td>
 
-<td valign="top" width="25%">
-        
-### Languages
+<td valign="top" width="33%">
+
+### Development
 
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=js,ts,net,python,bash,powershell,perl,cpp&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=js,ts,python,net,bash,powershell,perl,cpp,vue,nuxt,next,react,fastapi,htmx,tailwind,vuetify,html,css,d3&perline=5" />
 </div>
 
-</td><td valign="top" width="25%">
-  
-### Others
+</td>
+
+<td valign="top" width="33%">
+
+### DevOps & Tools
 
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode,aws,docker,jenkins,fastapi,prometheus,mysql,sqlite,firebase,react,npm,nodejs&perline=4" />
+       <img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,vscode,codepen,mysql,sqlite,firebase,nodejs,npm,strapi,wordpress,vercel,scss&perline=4" />
 </div>
 
 </td>
@@ -85,6 +89,10 @@ I am a coder, though it is a part of my tech career and a fun hobby.
 </tr></table>
 
 </div>
+
+**20 years of datacenter & operations experience:**
+
+`VMware ESX/vSphere` `Citrix XenApp/XenDesktop (CCA)` `Cisco IOS` `SAN/NAS (EMC VNX2 · HP EVA 4000/6000)` `Windows Server` `Zabbix` `Logicmonitor` `CA ArcServe` `Veeam` `Commvault` `SonicWall` `Tailscale` `WireGuard` `OpenVPN` `ZFS` `MQTT` `RabbitMQ` `IBM AS/400`
 
 ## AI & LLM
 
